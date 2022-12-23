@@ -1,4 +1,4 @@
-#include<iostream> //angular brackets are files in the directory paths, while "" means searchding files.
+#include<iostream> //angular brackets are files in the directory paths, while "" means searchding file.
 #include "log.h"
 using namespace std;
 //header files
